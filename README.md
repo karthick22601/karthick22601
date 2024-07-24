@@ -17,7 +17,7 @@
 
 <div align="left">
  
-  <a href="https://leetcode.com/u/arun07160/" >
+  <a href="https://leetcode.com/u/karthick2261/" >
     <img src="https://qph.cf2.quoracdn.net/main-qimg-7c297572c79e25e4f93bcea87bb43767" height="190" alt="web logo"  />
   </a>
   
@@ -29,18 +29,18 @@
 ###
 
 <div align="left">
-<a href="https://arun-showcase.web.app/" target="_blank">
+<a href="https:///" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5041/5041153.png" width="60" height="60" alt="web logo"  />
   </a>
 
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arun071&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arun071&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arun071&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=karthick22601&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=karthick22601&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthick22601&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arun071&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=22601&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
